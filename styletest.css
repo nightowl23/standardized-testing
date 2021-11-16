@@ -10,7 +10,8 @@
 {
     position: relative;
     padding: 100px;
-    background: linear-gradient(#2b1055, #7597de)
+    background: linear-gradient(#2b1055, #7597de);
+    height: 100%;
 }
 .title
 {
