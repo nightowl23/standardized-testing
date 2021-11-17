@@ -27,9 +27,10 @@
 }
 .video
 {
-    top: 50px; 
-    right: 270px;
+    margin-top: auto; 
+    right: auto;
     position: absolute;
+    display: block;
 }
 .secondvid
 {
