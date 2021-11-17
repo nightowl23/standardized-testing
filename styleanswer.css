@@ -27,13 +27,13 @@
 }
 .video
 {
-    margin-top: 50px; 
-    margin-right: 270px;
+    top: 50px; 
+    right: 270px;
     position: absolute;
 }
 .secondvid
 {
-    margin-top: 50px;
-    margin-left: 540px;
+    top: 50px;
+    left: 540px;
     position: absolute;
 }
